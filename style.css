@@ -1,0 +1,55 @@
+body {
+    background-color: aqua;
+}
+
+H1 {
+    text-align: center;
+    color: chocolate;
+}
+
+.red {
+    color: crimson;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: lawngreen;
+}
+
+.big {
+    font-size: 34px;
+}
+
+.smol {
+    font-size: 8px;
+}
+
+.centr {
+    text-align: center;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.font {
+    font-family: fantasy;
+}
+
+.pumpkin {
+    color: darkorange;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.styledFont {
+    color: darkblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    border: 5px solid brown;
+}
